@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=30&lines=It's+Ajay+M!;I'm+a+Blockchain+Developer...;I'm+good+at+coding;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=blue&size=30&lines=It's+Ajay+M!;Software+Engineer +Intern+@FSMK😎;I'm+a+Blockchain+Developer...;I'm+good+at+coding;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
 
 
 <h3> Here's some fun facts about me: </h3>
