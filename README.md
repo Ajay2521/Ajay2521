@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to Ajay's GitHub Profile
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=27&lines=Hello!+I'm+Ajay+M.;Software+Engineer;Blockchain+Developer;Dedicated+to+Technical+Excellence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=27&lines=Hello!+I'm+Ajay;Software+Engineer;Blockchain+Developer;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
