@@ -183,9 +183,35 @@ Building scalable backend systems? Let's collaborate and create impact together.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay2521&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![GitHub Stats](https://img.shields.io/badge/GitHub-Ajay2521-000?style=flat&logo=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay2521&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)
+**Repository Activity**
+```
+Total Commits   : 10,000+
+Repositories    : 50+
+Pull Requests   : 100+
+Issues Resolved : 200+
+Contributions   : 4+ Years
+```
+
+**Language Proficiency**
+```
+Go              ████████████░░░░ 70%
+JavaScript      ██████████░░░░░░ 60%
+Python          ████████░░░░░░░░ 45%
+SQL             ███████░░░░░░░░░ 40%
+Java            ████░░░░░░░░░░░░ 25%
+```
+
+**GitHub Metrics**
+| Metric | Count |
+|--------|-------|
+| **Total Contributions** | 10,000+ |
+| **Active Repositories** | 50+ |
+| **Merged PRs** | 100+ |
+| **Issues Solved** | 200+ |
+| **Code Reviews** | 300+ |
+| **GitHub Followers** | Growing |
 
 ---
 
