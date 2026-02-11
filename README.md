@@ -27,21 +27,16 @@
 
 ## 📊 Impact At A Glance
 
-### Performance Delivered
-| What | Result | Impact |
-|------|--------|--------|
-| **Processing Speed** | 3 hours → 20 minutes | **91% Reduction** |
-| **Daily Volume** | 30,000+ Transactions | **100% Automated** |
-| **API Response** | 500ms Average | **Enterprise SLA** |
-| **System Uptime** | 100% Reliability | **Zero Downtime** |
-
-### Business Value Generated
-| Initiative | Outcome | Annual Savings |
-|-----------|---------|----------------|
-| **AI Document Processing** | Fully Automated | **$72K+** |
-| **Infrastructure Optimization** | Serverless Migration | **$26K+** |
-| **Development Velocity** | 4 weeks → 5 days | **86% Faster** |
-| **Cost Efficiency** | Resource Management | **$150K+** |
+| Category | Metric | Result |
+|----------|--------|--------|
+| **Performance** | Processing Speed | 3h → 20min (**91% reduction**) |
+| **Performance** | Daily Volume | 30,000+ transactions (**100% automated**) |
+| **Performance** | API Response | 500ms average (**Enterprise SLA**) |
+| **Performance** | System Uptime | 100% reliability (**Zero downtime**) |
+| **Business** | AI Document Processing | Fully automated (**$72K+ annual**) |
+| **Business** | Infrastructure | Serverless migration (**$26K+ annual**) |
+| **Business** | Dev Velocity | 4 weeks → 5 days (**86% faster**) |
+| **Business** | Cost Efficiency | Resource management (**$150K+ annual**) |
 
 ---
 
@@ -186,10 +181,18 @@ Building scalable backend systems? Let's collaborate and create impact together.
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay2521&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay2521&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6)
+
+---
+
 <p align="center">
 
 **Building the future, one system at a time** 🚀
 
-*Last Updated: Feb 2026*
+*Last Updated: January 2025*
 
 </p>
