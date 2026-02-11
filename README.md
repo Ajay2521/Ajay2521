@@ -97,44 +97,40 @@
 - ✅ Microservice design with event-driven async patterns for high-scale systems
 - ✅ Serverless AWS infrastructure (Lambda, Step Functions, EventBridge) at scale
 - ✅ High-performance REST & GraphQL APIs maintaining sub-500ms latency consistently
-- ✅ Database optimization, query tuning, and indexing strategies reducing latency 70%
 
 ### FinTech & Compliance
 - ✅ End-to-end loan processing automation from origination through decisioning workflows
 - ✅ 100% audit compliance with immutable logging and regulatory requirement enforcement
-- ✅ Multi-vendor API integration for credit bureaus, payment gateways and providers
-- ✅ Camunda BPMN workflow automation automating 90% of monthly pre-screening validations
+- ✅ Multi-vendor API integration and Camunda BPMN workflow automation at scale
 
 ### Performance & Reliability
 - ✅ Processing workflow optimization reducing execution time from 180 to 20 minutes
 - ✅ Managing 30,000+ daily transactions with 100% uptime and zero critical downtime
-- ✅ Production incident response with 75% same-day resolution across 400+ tickets
 - ✅ Infrastructure cost reduction by $72K+ annually through optimization and management
 
 ### AI-Assisted Development
 - ✅ GitHub Copilot implementation achieving 5X faster development velocity consistently
-- ✅ AI-powered document parsing automation reducing manual processing effort by 85%
-- ✅ Delivery cycle acceleration from 4 weeks to 5 days using intelligent tools
+- ✅ AI-powered document parsing and delivery cycle acceleration using intelligent tools
 - ✅ No-code compliance automation platform using AI-assisted development methodologies
 
 ---
 
 ## 📈 Work Statistics
 
-```
-Experience              4+ Years                Production backend systems design & operations
-Daily Volume            30,000+                 Automated transactions with zero downtime
-Uptime Record           100%                    Mission-critical financial systems maintained
-Speed Improvement       91% faster              Workflow optimization 180min → 20min
-Cost Savings            $72K+ annually          AI automation & infrastructure optimization
-Development Velocity    5X faster               GitHub Copilot powered development
-Delivery Speed          86% faster              4 weeks → 5 days delivery cycles
-Issue Resolution        75% same-day            400+ production incidents resolved
-Engineers Mentored      50+                     Backend engineering role transitions
-Digital Followers       110K+                   Tamil content creator & technical influencer
-Geographic Reach        Multi-region            Scaled operations to Malaysia & beyond
-Compliance Rate         100%                    Audit trails & regulatory adherence
-```
+| Metric | Achievement | Details |
+|--------|-------------|---------|
+| **Experience** | 4+ Years | Production backend systems design & operations |
+| **Daily Volume** | 30,000+ | Automated transactions with zero downtime |
+| **Uptime Record** | 100% | Mission-critical financial systems maintained |
+| **Speed Improvement** | 91% faster | Workflow optimization 180min → 20min |
+| **Cost Savings** | $72K+ annually | AI automation & infrastructure optimization |
+| **Development Velocity** | 5X faster | GitHub Copilot powered development |
+| **Delivery Speed** | 86% faster | 4 weeks → 5 days delivery cycles |
+| **Issue Resolution** | 75% same-day | 400+ production incidents resolved |
+| **Engineers Mentored** | 50+ | Backend engineering role transitions |
+| **Digital Followers** | 110K+ | Tamil content creator & technical influencer |
+| **Geographic Reach** | Multi-region | Scaled operations to Malaysia & beyond |
+| **Compliance Rate** | 100% | Audit trails & regulatory adherence |
 
 ---
 
@@ -194,6 +190,6 @@ Building scalable backend systems? Let's collaborate and create impact together.
 
 **Building the future, one system at a time** 🚀
 
-*Last Updated: January 2025*
+*Last Updated: Feb 2026*
 
 </p>
